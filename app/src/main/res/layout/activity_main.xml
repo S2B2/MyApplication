@@ -53,10 +53,10 @@
 
     <ImageView
         android:id="@+id/myimage"
-        android:src="@drawable/logo_algonquin"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        app:src="Hello world"/>
+        android:src="@drawable/logo_algonquin"
+        app:src="Hello world" />
 
     <ImageButton
         android:id="@+id/button3"
